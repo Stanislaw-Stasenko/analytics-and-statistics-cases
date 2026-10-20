@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+ENV/
+data/
+
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+models/
+
+Thumbs.db
+Desktop.ini
